@@ -1,7 +1,7 @@
 Smarter Firefox Password
 ---
 
-Enter Firefox master password from smart card.
+Enter Firefox master password saved in smart card.
 
 Created by logchan, who is tired of typing, and happens to have dozens of spare tags.
 
@@ -22,7 +22,7 @@ The FG title and FG file text are for debug purpose.
 - A SC/PC compatible card reader.
 - A smart card.
 
-(Only tested with certain reader and some tags. If it does not work with your card, check command in [SmartCardClr.cpp](https://github.com/logchan/SmarterFirefoxPassword/blob/master/src/SmartCardClr/SmartCardClr.cpp))
+(Only tested with certain reader and some tags. If it does not work with your card, check command in [SmartCardClr.cpp](https://github.com/logchan/SmarterFirefoxPassword/blob/master/SmartCardClr/SmartCardClr.cpp))
 
 ### Software
 
